@@ -1,0 +1,3 @@
+token-macro:1.12.1
+durable-task:1.3
+docker-plugin:0.16.0
